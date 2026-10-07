@@ -1,5 +1,3 @@
-Absolutely, Andrew — your repository is ready for a clean, professional README. Here’s a polished version you can paste directly into GitHub. It explains your project clearly and makes your profile look more credible to employers.
-
 PHP Username Update API
 A simple PHP endpoint that updates a user's username using JSON input. This project demonstrates basic API handling, JSON parsing, secure database operations using PDO, and structured JSON responses.
 
